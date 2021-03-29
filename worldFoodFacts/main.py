@@ -3,7 +3,7 @@
     version： 1.0
     date： 2021/03/29
     name：world food facts
-    preference: https://www.kaggle.com/bhouwens/d/openfoodfacts/world-food-facts/how-much-sugar-do-we-eat/discussion
+    reference: https://www.kaggle.com/bhouwens/d/openfoodfacts/world-food-facts/how-much-sugar-do-we-eat/discussion
 """
 
 import zipfile
@@ -80,3 +80,6 @@ if __name__=='__main__':
     run_main()
 
 
+
+#特征与处理和归一化
+#kmeans降维
