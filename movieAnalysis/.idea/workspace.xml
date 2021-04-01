@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c9010859-05c4-4da5-b12b-a9d617f2b951" name="Default Changelist" comment="">
+<<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/../heartbeat_tianchiModel/main.py" afterDir="false" />
+=======
+>>>>>>> 902c32216bfe5a5bd5082abaea59784ea1fe5111
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
